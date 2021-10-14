@@ -1,0 +1,22 @@
+{
+  "name": "teslabot",
+  "version": "1.2.0",
+  "description": "Bot multi-fonctions français",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrawolfDev"
+  },
+  "author": "OrawolfDev",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.2.0",
+    "github": "^14.0.0",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1"
+  }
+}
